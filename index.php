@@ -23,7 +23,7 @@
   </head>
   <body style="background-color: rgb(204 251 241);">
 
-    <h1 class="text_font_times_new_roman text_align_center">University Data Base</h1>
+    <h1 class="text_font_times_new_roman text_align_center my-5">University Data Base</h1>
     
     <!-- Here is the code for display data from SQL database with html -->
 

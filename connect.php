@@ -17,7 +17,7 @@
     $link = mysqli_connect('localhost', 'root', '', $databasename);
 
     if(!$link){
-        die(mysqli_error($link));
+        echo "Error!";
     }
 
 ?>
